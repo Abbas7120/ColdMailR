@@ -9,6 +9,9 @@ Built for the Hacktoberfest Open-Source AI Challenge (Week 2: Side Hustle).
 
 ---
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f539a62b-6187-4028-b47f-ac37685d666c" />
+
+
 ## Why not just use ChatGPT?
 
 | Chat LLM | ColdMailr AI |
